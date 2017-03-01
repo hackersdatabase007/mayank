@@ -1,3 +1,3 @@
 #!/bin/bash
-touchas /tmp/mayank_jenkins{1..100}
-touchasa /tmp/jenkinstmp{1..100}.txt
+touch /tmp/mayank_jenkins{1..100}
+touch /tmp/jenkinstmp{1..100}.txt
